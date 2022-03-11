@@ -17,8 +17,8 @@
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=tunahankt&show_icons=true&theme=github_dark" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunahankt&layout=compact&theme=github_dark" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tunahankt&show_icons=true&theme=midnight-purple" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunahankt&layout=compact&theme=midnight-purple" width="%100" height="150px" alt="stats" />
 </details>
 
 <details align="center">
