@@ -19,7 +19,7 @@
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=tunahankt&show_icons=true&theme=midnight-purple" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunahankt&layout=compact&theme=midnight-purple" width="%100" height="150px" alt="stats" />
-</details>
+
 
 
 
@@ -34,7 +34,7 @@
   
   <div/>
 
-
+</details>
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
@@ -43,4 +43,9 @@
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 </code>
 </details>
-<br>
+
+
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bgk3g3euxme32okcl7n89pfji&cover_image=true&theme=novatorem&bar_color=ee00ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bgk3g3euxme32okcl7n89pfji&redirect=true)
