@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/714772292726685737)](https://discord.com/users/714772292726685737)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bgk3g3euxme32okcl7n89pfji&cover_image=true&theme=novatorem&bar_color=ee00ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bgk3g3euxme32okcl7n89pfji&redirect=true)
 </div>
 
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">CONTACT ME</h3>
