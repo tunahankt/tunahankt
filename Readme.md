@@ -19,6 +19,7 @@
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=tunahankt&show_icons=true&theme=midnight-purple" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunahankt&layout=compact&theme=midnight-purple" width="%100" height="150px" alt="stats" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tunahankt&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </details>
 
 <details align="center">
