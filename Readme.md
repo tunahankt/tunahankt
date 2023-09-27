@@ -54,6 +54,4 @@
 <p align="center">
 <a href="https://www.instagram.com/benfbihades/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://discord.com/users/714772292726685737" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/fbihades/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://open.spotify.com/user/bgk3g3euxme32okcl7n89pfji?si=bc776797594d4a5a" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
