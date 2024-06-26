@@ -40,11 +40,6 @@
 
 <div align="center">
 
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bgk3g3euxme32okcl7n89pfji&cover_image=true&theme=novatorem&bar_color=ee00ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bgk3g3euxme32okcl7n89pfji&redirect=true)
-  
-  
   
   <div/>
   
